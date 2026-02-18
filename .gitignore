@@ -1,0 +1,11 @@
+# Zig build output
+zig-cache/
+zig-out/
+
+# OS artifacts
+.DS_Store
+
+# Editor/temp files
+*.swp
+*.swo
+*~
